@@ -6,7 +6,7 @@
 [python-sdk]: https://github.com/stealthrocket/dispatch-sdk-python
 [discord]: https://stealthrocket.tech/discord
 [website]: https://stealthrocket.tech
-[blog]: https://blog.stealthrocket.tech
+[blog]: https://stealthrocket.tech/blog
 [docs]: https://docs.stealthrocket.cloud
 
 Welcome to the Stealth Rocket Github organization!
@@ -24,6 +24,6 @@ Join the community on [Discord][discord]!
 # Links
 
 - Website: [stealthrocket.tech][website]
-- Blog: [blog.stealthrocket.tech][blog]
+- Blog: [stealthrocket.tech/blog][blog]
 - Documentation: [docs.stealthrocket.tech][docs]
 - Discord: [stealthrocket.tech/discord][discord]
