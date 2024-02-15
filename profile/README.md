@@ -1,4 +1,3 @@
-![alt text](./logo.png)
 <img align="center" src="./logo.png"/>
 
 [signup]: https://docs.stealthrocket.cloud/dispatch/getting-started
