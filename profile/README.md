@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="./logo.png"/>
+    <img width="400" src="./profile/logo.png"/>
 </p>
 
 [signup]: https://docs.stealthrocket.cloud/dispatch/getting-started
