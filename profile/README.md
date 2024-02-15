@@ -1,4 +1,6 @@
-<img align="center" src="./logo.png"/>
+<p align="center">
+    <img width="200" src="./logo.png"/>
+</p>
 
 [signup]: https://docs.stealthrocket.cloud/dispatch/getting-started
 [python-sdk]: https://github.com/stealthrocket/dispatch-sdk-python
