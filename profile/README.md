@@ -3,7 +3,7 @@
 </p>
 
 [signup]: https://docs.stealthrocket.cloud/dispatch/getting-started
-[python-sdk]: https://github.com/stealthrocket/dispatch-sdk-python
+[python-sdk]: https://github.com/stealthrocket/dispatch-py
 [discord]: https://stealthrocket.tech/discord
 [website]: https://stealthrocket.tech
 [blog]: https://stealthrocket.tech/blog
