@@ -2,12 +2,12 @@
     <img width="400" src="./profile/logo.png"/>
 </p>
 
-[signup]: https://docs.stealthrocket.cloud/dispatch/getting-started
+[signup]: https://docs.dispatch.run/dispatch/getting-started
 [python-sdk]: https://github.com/stealthrocket/dispatch-py
 [discord]: https://stealthrocket.tech/discord
 [website]: https://stealthrocket.tech
 [blog]: https://stealthrocket.tech/blog
-[docs]: https://docs.stealthrocket.cloud
+[docs]: https://docs.dispatch.run
 
 Welcome to the Stealth Rocket Github organization!
 
