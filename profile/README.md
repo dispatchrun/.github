@@ -13,7 +13,7 @@ Welcome to the Stealth Rocket Github organization!
 
 We are building **Dispatch**, a platform for developing scalable & reliable distributed systems.
 
-Dispatch provides a simple programming model based on Distributed Coroutines, allowing complex, dynamic workflows to be expressed with regular code and control flow.
+Dispatch provides a simple programming model based on *Distributed Coroutines*, allowing complex, dynamic workflows to be expressed with regular code and control flow.
 
 Dispatch schedules function calls across a fleet of service instances, incorporating fair scheduling, transparent retry of failed operations, and durability.
 
