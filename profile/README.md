@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="./profile/logo.png"/>
+    <img width="400" src="./profile/dispatch_logo_light.png"/>
 </p>
 
 [signup]: https://docs.dispatch.run/dispatch/getting-started
