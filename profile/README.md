@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-[signup]: https://docs.dispatch.run/dispatch/getting-started
+[signup]: https://docs.dispatch.run/getting-started
 [python-sdk]: https://github.com/dispatchrun/dispatch-py
 [discord]: https://dispatch.run/discord
 [website]: https://dispatch.run
